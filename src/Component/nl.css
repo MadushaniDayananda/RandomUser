@@ -1,0 +1,15 @@
+*
+.name{
+    border: #282c34;
+    border-radius: 10%;
+    background-color: #61dafb;
+    height: 200px;
+    width: 300px;
+    /*margin-left: 600px;*/
+    /*margin-right: 600px;*/
+    display: flex;
+    alignItems: right;
+    justifyContent: center;
+    margin-bottom: 15px;
+
+}
