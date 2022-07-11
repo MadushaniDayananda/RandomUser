@@ -7,9 +7,9 @@ function App() {
   return (
     <div >
         <div className='first'>
-            {/*<h1>madu</h1>*/}
-            {/*<hr/>*/}
-            {/*<h2>Dil</h2>*/}
+            <h1>madu</h1>
+            <hr/>
+            <h2>Dil</h2>
             <Namelist/>
         </div>
 
